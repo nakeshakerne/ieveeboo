@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ielequeiph.sergeymakeev.com/sitemap.xml
